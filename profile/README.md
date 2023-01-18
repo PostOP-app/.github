@@ -1,3 +1,9 @@
+<div align="center">
+  
+  ![postcare-logo-blue](https://user-images.githubusercontent.com/25227022/213058099-087c922d-dcfc-48e9-8a00-1cdaaa20d246.png)
+  
+</div>
+
 # Postcare App :hospital: :pill:
 Welcome to the Postcare App GitHub organization! Our mission is to provide an easy-to-use and effective way to manage your post-surgical recovery process.
 
